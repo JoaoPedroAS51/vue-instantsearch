@@ -45,12 +45,12 @@
     "release:publish": "scripts/release-publish.sh"
   },
   "dependencies": {
-    "algoliasearch-helper": "^2.28.0",
+    "algoliasearch-helper": "^2.26.1",
     "core-js": "^2.6.5",
-    "instantsearch.js": "^3.4.0"
+    "instantsearch.js": "^3.2.1"
   },
   "peerDependencies": {
-    "algoliasearch": "^3.33.0",
+    "algoliasearch": "^3.32.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
